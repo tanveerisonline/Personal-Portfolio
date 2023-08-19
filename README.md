@@ -39,7 +39,7 @@ You can checkout the live demo of our project at [Portfolio](https://www.iamfull
   - [Bootstrap](https://react-bootstrap.github.io/) - Pre-built UI components
 
 - **Tools** 🛠:
-  - [Githun](https://github.com/) - Github to upload and save work
+  - [Github](https://github.com/) - Github to upload and save work
   - [Hostinger](https://hostinger.com/) - Cloud platform for deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
