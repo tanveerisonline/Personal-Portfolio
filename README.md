@@ -1,27 +1,17 @@
 <a name="readme-top"></a>
-[![Contributors](https://img.shields.io/github/contributors/IndieCoderMM/e-learning-academy)](https://github.com/IndieCoderMM/e-learning-academy/graphs/contributors)
-[![LastUpdate](https://img.shields.io/github/last-commit/IndieCoderMM/e-learning-academy)](https://github.com/IndieCoderMM/e-learning-academy/commits/main)
-[![Stargazers](https://img.shields.io/github/stars/IndieCoderMM/e-learning-academy)](https://github.com/IndieCoderMM/e-learning-academy/stargazers)
-[![Issues](https://img.shields.io/github/issues/IndieCoderMM/e-learning-academy)](https://github.com/IndieCoderMM/e-learning-academy/issues)
-[![License](https://img.shields.io/github/license/IndieCoderMM/e-learning-academy)](https://github.com/IndieCoderMM/e-learning-academy/blob/main/LICENSE)
 
 <details>
 <summary>Table of Contents</summary>
 
-- [🎓 ClassUp - Online Learning Platform ](#-classup---online-learning-platform-)
+- [🎓 Personal Portfolio Website ](#-Personal Portfolio )
   - [📸 Screenshots ](#-screenshots-)
   - [🚀 Live Demo](#-live-demo)
   - [📋 Kanban Board](#-kanban-board)
   - [🧰 Tech Stack ](#-tech-stack--)
   - [✨ Key Features ](#-key-features--)
   - [📘 Getting Started ](#-getting-started--)
-    - [📋 Prerequisites](#-prerequisites)
     - [📂 Setup](#-setup)
     - [📥 Installation](#-installation)
-    - [💾 Database](#-database)
-    - [💻 Usage](#-usage)
-    - [📃 API](#-api)
-    - [🧪 Tests](#-tests)
   - [👨‍💻 Authors ](#-authors--)
   - [🎯 Future Features ](#-future-features--)
   - [🤝 Contribution ](#-contribution--)
@@ -30,60 +20,27 @@
   - [📜 License ](#-license-)
   </details>
 
-# 🎓 ClassUp - Online Learning Platform <a name="about-project"></a>
+# 🎓 Portfolio - My Personal Portfolio <a name="about-project"></a>
 
-**ClassUp** is a collaborative online learning platform developed as the final capstone project at Microverse.
-
-Our website allows users to reserve online classes while also providing the opportunity to schedule study sessions with fellow learners in their area. By bridging the gap between virtual learning and real-world interactions, Classup creates a vibrant and collaborative learning environment for students of all backgrounds.
-
-## 📸 Screenshots <a name="screenshot"></a>
-
-<p>
-<img src="./app_screenshot1.png" width=400 height=250 alt="screenshot" />
-<img src="./app_screenshot2.png" width=400 height=250 alt="screenshot" />
-<img src="./app_screenshot3.png" width=400 height=250 alt="screenshot" />
-<img src="./app_screenshot4.png" width=400 height=250 alt="screenshot" />
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**Personal Portfolio** This project is a portfolio website which is created using pure Html5, Css3 and JavaScript. This project has both features its mobile friendly as well as desktop too. This portfolio project is now hosted and the link is given in the deployement section. In this project i have used eslint and css linter for checking errors.
 
 ## 🚀 Live Demo
 
-You can checkout the live demo of our project at [classup.onrender.com](https://classup.onrender.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📋 Kanban Board
-
-We used a Kanban board to manage our tasks and track the progress of our project.
-
-This is [the link to our Kanban Board](https://github.com/users/IndieCoderMM/projects/4).
-
-We're a group of 3 members: [@tobuya](https://github.com/tobuya), [@tanveerisonline](https://github.com/tanveerisonline), [@IndieCoderMM](https://github.com/indiecodermm)
-
-<img src="./kanban.png" width=600 height=400 alt="kanban board" />
+You can checkout the live demo of our project at [Portfolio](https://www.iamfullstackdev.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🧰 Tech Stack <a name="tech-stack"></a>
 
-- **Back-end** 💻:
-
-  - [Ruby on Rails](https://rubyonrails.org/) - Creating API endpoints and managing databases
-  - [PostgreSQL](https://www.postgresql.org/) - Database management system
-
 - **Front-end** 🎨:
 
-  - [React](https://reactjs.org/) - Building user interfaces
-  - [Redux](https://redux.js.org/) - Managing states and API calls
+  - [HTML](https://html.com/) - Building user interfaces
+  - [CSS](https://www.css3.com/) - Styling the web pages
   - [Bootstrap](https://react-bootstrap.github.io/) - Pre-built UI components
 
 - **Tools** 🛠:
-  - [Rspec](https://rspec.info/) - Testing models and requests
-  - [RSwag](https://github.com/rswag/rswag) - Documenting and testing API endpoints
-  - [Jest](https://jestjs.io/) - Unit tests for frontend components
-  - [Webpack](https://webpack.js.org/) - Module bundler for React/javascript
-  - [Render](https://render.com/) - Cloud platform for deployment
+  - [Githun](https://github.com/) - Github to upload and save work
+  - [Hostinger](https://hostinger.com/) - Cloud platform for deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
